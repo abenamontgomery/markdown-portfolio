@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+A proven __*leader*__ with over __20 years__ of experience, I add value to organizations by implementing my *technical architecture, design, development, testing skills* to ensure that the technology implementation projects will be accomplished in a timely manner. 
